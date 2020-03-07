@@ -7,8 +7,8 @@ I'm planning on adding more functionalities, more content like names and texts, 
 To Run:
 >you'll need a local server (as browsers block texture renders).
 >I used 'XAMPP' to host my project on a localhost.
->download the files
+>download the files.
 >open your server conf file.
->change the directory path on the conf file to where this project folder is stored on you computer
->open browser and type localhost/solarsystem.html
->boom now you know what your solarsystem looks like
+>change the directory path on the conf file to where this project folder is stored on you computer.
+>open browser and type localhost/solarsystem.html.
+>boom now you know what your solarsystem looks like.
